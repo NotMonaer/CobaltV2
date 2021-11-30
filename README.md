@@ -1,4 +1,4 @@
-# SSL Bypass by Milxnor, for StormFN and several other servers.
+# SSL Bypass by Milxnor
 
 Features:
 VEH, Minhook, Kiero hooks (dx9, 10, 11, 12, vulkan, opengl).
